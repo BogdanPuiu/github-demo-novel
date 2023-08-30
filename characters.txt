@@ -1,5 +1,0 @@
-char1
-char2
-char3
-char4 - info about char4
-char5 - info about char5
